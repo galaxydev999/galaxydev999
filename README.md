@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @galaxydev999
+- I am a freelance web developer on fiverr.com
+- I primarily program with HTML CSS & Javascript, but I occasionally use PHP
+- Any questions can be directed to either my business email: galaxytrooperbot@gmail.com or my dicord: Chad Gamerr#9289
